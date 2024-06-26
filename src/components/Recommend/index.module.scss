@@ -1,0 +1,22 @@
+.recommendWrap {
+    .title {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .partList {
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 24px;
+
+        .partItem {
+            margin-bottom: 14px;
+            cursor: pointer;
+            font-size: 18px;
+            color: gray;
+        }
+
+        .partItem:hover {
+            color: #8f8f8f;
+        }
+    }
+}

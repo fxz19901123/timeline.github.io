@@ -1,0 +1,19 @@
+{
+    "docs": "帮助手册",
+    "gameName": "时间线",
+    "btn": "按钮",
+    "start": "立即开始",
+    "input": "请填写你看到的数字",
+    "placeholder": "请填写数字",
+    "check": "验证",
+    "countDown": "记忆倒计时",
+    "seconds": "秒",
+    "copyTip": "请不要作弊哦",
+    "gameOver_a": "记忆错误，你最多记住了",
+    "gameOver_b": "个数字",
+    "gameOver_c": "，超过了",
+    "gameOver_d": "人",
+    "again": "不服？再来一局！",
+    "description": "每3秒出现一组数字，请记住，并默写",
+    "ruleTip": "请输入数字"
+}

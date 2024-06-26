@@ -1,0 +1,48 @@
+.contentWrap {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    .searchInput {
+        display: flex;
+    }
+
+    .titleBlock {
+        margin-bottom: 10vh;
+        width: 650px;
+        .title {
+            color: #353535;
+            font-size: 8vh;
+            font-weight: 600;
+            margin-bottom: 3vh;
+        }
+        .hot {
+            font-size: 16px;
+            margin-top: 3vh;
+            .hotTitle {
+                text-align: left;
+                font-weight: 600;
+                line-height: 2rem;
+            }
+            .hotList {
+                align-items: flex-start;
+                height: 100px;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+                justify-content: center;
+
+                .list {
+                    line-height: 2rem;
+                    cursor: pointer;
+                }
+
+                .list:hover {
+                    color: #8f8f8f;
+                }
+            }
+        }
+    }
+}

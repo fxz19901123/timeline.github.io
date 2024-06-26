@@ -1,0 +1,19 @@
+.contentWrap {
+    height: calc(100% - 38px);
+    width: 100%;
+
+    .searchInput {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        margin-bottom: 24px;
+    }
+    .content {
+        height: 100%;
+        overflow-x: scroll;
+
+        .recommendContent {
+            padding: 0 24px 0 24px;
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "docs": "Docs",
+    "gameName": "TimeLine",
+    "btn": "Button",
+    "start": "Start",
+    "input": "Please enter the numbers you see",
+    "placeholder": "Please enter numbers",
+    "check": "Check",
+    "countDown": "Memory countDown",
+    "seconds": "seconds",
+    "copyTip": "Please don't cheat",
+    "gameOver_a": "Game over, you memorized",
+    "gameOver_b": "numbers, more than",
+    "gameOver_c": ", more than",
+    "gameOver_d": "people",
+    "again": "Again",
+    "description": "A set of numbers appears every 3 seconds, please remember and memorize them",
+    "ruleTip": "Please enter numbers"
+}

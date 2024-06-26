@@ -1,0 +1,39 @@
+.lineWrap {
+    .lineLabel {
+        color: gray;
+        font-size: 16px;
+        margin-bottom: 6px;
+    }
+
+    .lineChild {
+        font-size: 16px;
+        margin-bottom: 24px;
+        // cursor: pointer;
+    }
+
+    .lineChild:last-child {
+        // font-size: 16px;
+        margin-bottom: 0px;
+        // cursor: pointer;
+    }
+
+    .lineDot {
+        width: 16px;
+        height: 16px;
+        background: #c8c8c8;
+        border-radius: 50%;
+        font-size: 16px;
+    }
+
+    :global {
+        .ant-timeline {
+            padding: 24px 24px 0 24px;
+        }
+
+        .ant-timeline.ant-timeline-alternate
+            .ant-timeline-item-right
+            .ant-timeline-item-content {
+            inset-inline-end: 12px;
+        }
+    }
+}
